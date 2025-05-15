@@ -56,4 +56,5 @@ constexpr auto abs_val = []<typename T>(T x){
 References:
 
 [1] C++ Programming Language, Fourth Edition
+
 [2] https://en.cppreference.com/w/cpp/language/constexpr#constexpr_function
